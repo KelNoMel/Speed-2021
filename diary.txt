@@ -1,0 +1,11 @@
+Date	    Start	Stop	Activity	Comments
+19/04/21	16:00	18:30	coding	    implemented quit, print and delete
+21/04/21	10:00	11:30	debugging	debugged quit, print and delete
+21/04/21	16:00	17:30	coding	    implemented substitution
+23/04/21	11:00	12:30	testing	    wrote tests
+24/04/21    14:00	15:00   debugging	debugged substitution
+24/04/21    15:00	18:00   coding	    implemented addresses and ranges
+25/04/21	21:00	01:30	debugging	debugged ranges and reformatted code
+26/04/21	08:00	12:45	coding 	    attempted various other subset 1 code
+26/04/21	14:00	15:00	testing 	finished testing
+26/04/21	15:30	17:00	general	    fixing and tidying loose ends
